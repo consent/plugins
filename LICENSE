@@ -1,0 +1,29 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+This project (FakeMuteDeaf, a Vencord userplugin) is free software:
+you can redistribute it and/or modify it under the terms of the GNU
+General Public License as published by the Free Software Foundation,
+either version 3 of the License, or (at your option) any later
+version, consistent with the license of Vencord itself, which this
+plugin is built against.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+The full, official text of the GNU General Public License version 3
+is the canonical license for this project. You should have received
+a copy of it along with this program; if not, see:
+
+    https://www.gnu.org/licenses/gpl-3.0.txt
+
+A local copy of the full license text can be generated at any time
+with the Free Software Foundation's own tooling, or downloaded
+directly from the URL above before publishing this repository.
