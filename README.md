@@ -1,6 +1,8 @@
 # -.-
 ![Vencord](https://img.shields.io/badge/client-Vencord-5865F2)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
+
+
 Cool plugins made for the Vencord client (https://vencord.dev/) for Discord
 
 Thanks to [Vencord](https://github.com/Vendicated/Vencord) for making this possible. 
