@@ -6,3 +6,4 @@
 - Toggle the fake mute/deafen manually via the
 Input options, seen [here](https://raw.githubusercontent.com/consent/plugins/refs/heads/main/FakeMute/settings.png)
 
+- Alternatively, `Ctrl+Shift+Q` toggles both fake mute and deafen (can be disabled in settings). 
